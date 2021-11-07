@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vipalade
-- 👀 I’m interested in cross-platform C++ development
+- 👋 Hi, I’m Valentin
+- 👀 I’m interested in cross-platform C++ development, distributed systems and more...
 
 
 <!---
