@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Valentin
-- 👀 I’m interested in cross-platform C++ development, distributed systems and more...
+- 👀 Die hard C++ engineer with an eye on Rust.
+- 📫 https://www.linkedin.com/in/vipalade/
 
 
 <!---
